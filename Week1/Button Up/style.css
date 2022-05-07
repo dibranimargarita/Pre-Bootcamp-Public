@@ -1,0 +1,32 @@
+.container {
+    padding: 30px;
+}
+
+.container div {
+    margin: 10px 0;
+}
+
+#search {
+    border: 1px solid #86C7A9;
+    padding: 2px 35px;
+    border-radius: 10px;
+    background-color: white;
+    color: #86C7A9;
+}
+
+#add {
+    border: 1px solid #86C7A9;
+    border-radius: 100%;
+    padding: 4px 9px;
+    background-color: #86C7A9;
+    color: white;
+    font-size: 20px;
+}
+
+#create {
+    padding: 5px 20px;
+    box-shadow: 3px 3px 1px 1px black;
+    background-color: #004FFF;
+    color: white;
+    
+}
