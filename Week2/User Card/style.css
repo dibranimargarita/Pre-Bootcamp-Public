@@ -1,0 +1,45 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.container {
+    width: 800px;
+    margin-top: 50px;
+    margin-left: auto;
+    margin-right: auto;
+    font-family: cursive;
+    box-shadow: 0px 0px 1px 3px #888888;
+}
+.blue {
+    background-color: #17A2B8;
+    height: 100px;
+    box-shadow: 0px 0px 1px 3px #17A2B8;
+}
+.blue {
+    position: relative;
+}
+#user {
+    height: 100px;
+    box-shadow: 00px 0px 1px 3px #888888;
+    padding: 3px;
+    background-color: whitesmoke;
+    border-radius: 50px;
+}
+.info {
+    position: relative;
+    top: -50px;
+    padding-left: 30px;
+}
+.icon {
+    height: 15px;
+}
+span {
+    font-size: 1.2em;
+}
+.bio {
+    padding: 10px 0px;
+}
+a {
+    color: #175db8;
+}
