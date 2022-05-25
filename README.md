@@ -1,2 +1,2 @@
 # Pre-Bootcamp-Public
-Public repository for pre-bootcamp
+This is the READMe file for Push to Github assignment
